@@ -1,0 +1,13 @@
+[{
+  "modid": "crafteffect",
+  "name": "Craft Effect",
+  "description": "Stuff Mass Effect ported to minecraft mod Craft Effect(Надо изменить описание)",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/nedfreetoplay/CraftEffect",
+  "authorList": ["nedfreetoplay"],
+  "credits": "To zablik team.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}]

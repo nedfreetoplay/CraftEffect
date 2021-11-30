@@ -1,0 +1,14 @@
+itemGroup.effect_tab=Эффект крафта
+
+item.copper_ingot.name=Медный слиток
+item.copper_axe.name=Медный топор
+item.copper_hoe.name=Медная мотыго
+item.copper_pickaxe.name=Медная кирка
+item.copper_shovel.name=Медная лапата
+item.copper_sword.name=Медный меч
+item.copper_helmet.name=Медный шлем
+item.copper_chestplate.name=Медный нагрудник
+item.copper_leggings.name=Медные поножи
+item.copper_boots.name=Медные ботинки
+
+tile.copper_block.name=Медный блок
